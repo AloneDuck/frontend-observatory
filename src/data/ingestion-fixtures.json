@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "id": "ingest-003",
+    "observations": 3,
+    "bytes": 2560,
+    "expected": "accept"
+  }
+]
