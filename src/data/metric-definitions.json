@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": "metric-001",
+    "name": "LCP",
+    "unit": "ms",
+    "percentile": 75,
+    "requiredDimensions": [
+      "route",
+      "release"
+    ]
+  }
+]
