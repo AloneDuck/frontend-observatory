@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": "budget-002",
+    "metric": "INP",
+    "route": "/catalog",
+    "threshold": 750,
+    "severity": "warn"
+  }
+]
