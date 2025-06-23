@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": "baseline-004",
+    "route": "/account",
+    "release": "2026.04",
+    "metric": "TTFB",
+    "p75": 975
+  }
+]
