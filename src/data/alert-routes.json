@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": "alert-006",
+    "metric": "INP",
+    "consecutiveWindows": 4,
+    "minimumSamples": 50,
+    "destination": "release-gate"
+  }
+]
