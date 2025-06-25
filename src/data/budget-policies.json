@@ -5,5 +5,12 @@
     "route": "/catalog",
     "threshold": 750,
     "severity": "warn"
+  },
+  {
+    "id": "budget-008",
+    "metric": "TTFB",
+    "route": "/checkout",
+    "threshold": 2250,
+    "severity": "warn"
   }
 ]
