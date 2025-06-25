@@ -4,5 +4,11 @@
     "field": "route",
     "action": "normalize",
     "retentionDays": 7
+  },
+  {
+    "id": "privacy-011",
+    "field": "release",
+    "action": "allowlist",
+    "retentionDays": 21
   }
 ]
