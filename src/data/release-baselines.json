@@ -5,5 +5,12 @@
     "release": "2026.04",
     "metric": "TTFB",
     "p75": 975
+  },
+  {
+    "id": "baseline-010",
+    "route": "/search",
+    "release": "2026.10",
+    "metric": "INP",
+    "p75": 1725
   }
 ]
