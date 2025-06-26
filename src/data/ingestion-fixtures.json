@@ -10,5 +10,11 @@
     "observations": 9,
     "bytes": 8704,
     "expected": "accept"
+  },
+  {
+    "id": "ingest-015",
+    "observations": 15,
+    "bytes": 14848,
+    "expected": "accept"
   }
 ]
