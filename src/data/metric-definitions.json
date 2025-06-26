@@ -18,5 +18,15 @@
       "route",
       "release"
     ]
+  },
+  {
+    "id": "metric-013",
+    "name": "LCP",
+    "unit": "ms",
+    "percentile": 75,
+    "requiredDimensions": [
+      "route",
+      "release"
+    ]
   }
 ]
