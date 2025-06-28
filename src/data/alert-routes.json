@@ -12,5 +12,12 @@
     "consecutiveWindows": 4,
     "minimumSamples": 75,
     "destination": "release-gate"
+  },
+  {
+    "id": "alert-018",
+    "metric": "INP",
+    "consecutiveWindows": 4,
+    "minimumSamples": 100,
+    "destination": "release-gate"
   }
 ]
