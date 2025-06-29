@@ -19,5 +19,12 @@
     "route": "/account",
     "threshold": 1750,
     "severity": "warn"
+  },
+  {
+    "id": "budget-020",
+    "metric": "TTFB",
+    "route": "/search",
+    "threshold": 1250,
+    "severity": "warn"
   }
 ]
