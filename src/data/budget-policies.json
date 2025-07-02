@@ -26,5 +26,12 @@
     "route": "/search",
     "threshold": 1250,
     "severity": "warn"
+  },
+  {
+    "id": "budget-026",
+    "metric": "INP",
+    "route": "/",
+    "threshold": 750,
+    "severity": "warn"
   }
 ]
