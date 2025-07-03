@@ -22,5 +22,11 @@
     "observations": 21,
     "bytes": 20992,
     "expected": "accept"
+  },
+  {
+    "id": "ingest-027",
+    "observations": 27,
+    "bytes": 2560,
+    "expected": "accept"
   }
 ]
