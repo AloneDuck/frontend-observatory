@@ -22,5 +22,11 @@
     "field": "release",
     "action": "allowlist",
     "retentionDays": 21
+  },
+  {
+    "id": "privacy-029",
+    "field": "route",
+    "action": "normalize",
+    "retentionDays": 7
   }
 ]
