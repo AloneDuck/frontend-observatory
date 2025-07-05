@@ -33,5 +33,12 @@
     "route": "/",
     "threshold": 750,
     "severity": "warn"
+  },
+  {
+    "id": "budget-032",
+    "metric": "TTFB",
+    "route": "/catalog",
+    "threshold": 2250,
+    "severity": "warn"
   }
 ]
