@@ -33,5 +33,12 @@
     "consecutiveWindows": 4,
     "minimumSamples": 150,
     "destination": "release-gate"
+  },
+  {
+    "id": "alert-036",
+    "metric": "TTFB",
+    "consecutiveWindows": 4,
+    "minimumSamples": 50,
+    "destination": "release-gate"
   }
 ]
