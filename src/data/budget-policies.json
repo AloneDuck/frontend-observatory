@@ -40,5 +40,12 @@
     "route": "/catalog",
     "threshold": 2250,
     "severity": "warn"
+  },
+  {
+    "id": "budget-038",
+    "metric": "INP",
+    "route": "/checkout",
+    "threshold": 1750,
+    "severity": "warn"
   }
 ]
