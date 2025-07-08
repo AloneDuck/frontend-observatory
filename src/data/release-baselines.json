@@ -40,5 +40,12 @@
     "release": "2026.10",
     "metric": "INP",
     "p75": 1725
+  },
+  {
+    "id": "baseline-040",
+    "route": "/search",
+    "release": "2026.04",
+    "metric": "TTFB",
+    "p75": 975
   }
 ]
