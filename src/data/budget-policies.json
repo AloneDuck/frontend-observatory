@@ -47,5 +47,12 @@
     "route": "/checkout",
     "threshold": 1750,
     "severity": "warn"
+  },
+  {
+    "id": "budget-044",
+    "metric": "TTFB",
+    "route": "/account",
+    "threshold": 1250,
+    "severity": "warn"
   }
 ]
