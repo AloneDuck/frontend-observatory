@@ -68,5 +68,15 @@
       "route",
       "release"
     ]
+  },
+  {
+    "id": "metric-043",
+    "name": "CLS",
+    "unit": "score",
+    "percentile": 75,
+    "requiredDimensions": [
+      "route",
+      "release"
+    ]
   }
 ]
