@@ -40,5 +40,11 @@
     "observations": 39,
     "bytes": 14848,
     "expected": "accept"
+  },
+  {
+    "id": "ingest-045",
+    "observations": 45,
+    "bytes": 20992,
+    "expected": "reject"
   }
 ]
